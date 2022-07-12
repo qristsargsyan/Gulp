@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,EACA,OAAA,EACA,QAAA,EAGA,GACA,MAAA,KACA,iBAAA,OACA,OAAA,MAAA,KACA,QAAA","file":"styles.css","sourcesContent":["* {\n  margin: 0;\n  padding: 0;\n}\n\nh1 {\n  color: white;\n  background-color: purple;\n  margin: 100px auto;\n  padding: 15px;\n}"]}
